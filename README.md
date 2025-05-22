@@ -47,11 +47,7 @@ Classification Report:
 #### Next steps
 Use additional classification algorithms such as KNeighborsClassifier, DecisionTreeClassifier or SVM  to determine and achieve higher accuracy scores
 
-#### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
 
 
 ##### Contact and Further Information
