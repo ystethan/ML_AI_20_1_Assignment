@@ -2,6 +2,7 @@
 Initial Report and Exploratory Data Analysis (EDA)
 ### Project Title
 Prediction for potential hotel booking cancellation prior to check-in
+
 **Author**
 Yu-Shen (Ethan) Tsao
 #### Objective
